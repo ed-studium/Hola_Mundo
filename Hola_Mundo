@@ -1,3 +1,6 @@
-Practica de ED
-Editamos el fichero
-int n = 0
+//Practica de ED
+//Editamos el fichero
+int n = 0;
+int o = 9;
+String h=";
+// Modificado
